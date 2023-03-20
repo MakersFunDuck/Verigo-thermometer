@@ -19,3 +19,6 @@ Architecture:
 The firmware will be designed using the C programming language and will be based on the Texas Instruments BLE-Stack SDK for the cc2541 MCU. The firmware will use the Si705 driver provided by Silicon Labs and will implement a custom data logging and USB communication protocol.
 
 The firmware will be designed to run on low-power mode when not in use and wake up periodically to collect temperature data and write it to memory. The firmware will use the RTC to accurately timestamp each temperature reading.
+
+I shared my process ın thıs vıdeo ıf you are ınterested:
+https://youtu.be/nyylIe8ugiQ

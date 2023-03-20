@@ -1,0 +1,1 @@
+# Verigo-thermometer

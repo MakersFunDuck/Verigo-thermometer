@@ -22,12 +22,12 @@ The firmware designed to run on low-power mode when not in use and wake up perio
 
 I have also inluded compiled version.
 
-I used 
+I have used: 
 
-I used this project to upload my firmware to the device:
+This project to upload my firmware to the device:
 https://github.com/RedBearLab/CCLoader
 
-I used hex2bin to convert hex files to binary files (which was needed for ccloader):
+hex2bin to convert hex files to binary files (which was needed for ccloader):
 https://hex2bin.sourceforge.net/
 
 I shared my process for creating a custom firmware in this video if you are interested:

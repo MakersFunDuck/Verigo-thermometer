@@ -20,5 +20,5 @@ The firmware will be designed using the C programming language and will be based
 
 The firmware will be designed to run on low-power mode when not in use and wake up periodically to collect temperature data and write it to memory. The firmware will use the RTC to accurately timestamp each temperature reading.
 
-I shared my process ın thıs vıdeo ıf you are ınterested:
+I shared my process for creating a custom firmware in this video if you are interested:
 https://youtu.be/nyylIe8ugiQ

@@ -8,7 +8,7 @@ Thermometer is based on TI's demo "Thermometer" code, which is using sensorTag l
 The project is created by IAR 8051 version. The project file is "Thermometer\Projects\ble\Thermometer\CC2541DB\thermometer.eww"
 
 Features:
-The firmware will be designed to support the following features:
+The firmware has the following features:
 
     Accurate temperature sensing using the Si705 sensor
     Data advertasing at regular intervals

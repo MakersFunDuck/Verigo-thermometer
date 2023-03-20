@@ -1,7 +1,7 @@
 # Verigo-thermometer
 
 Overview:
-The goal of this project is to develop a new open source firmware for Verigo branded temperature dataloggers. The dataloggers use the cc2541 microcontroller unit (MCU) and the Si705 temperature sensor. And another ble master like smartphone or pc gets the temperature readable by human.. The firmware will be hosted on GitHub and will be available for anyone to use and modify.
+The goal of this project is to develop a new open source firmware for Verigo branded temperature dataloggers. The dataloggers use the cc2541 microcontroller unit (MCU) and the Si705 temperature sensor. And another ble master like smartphone or pc can read the temperature over Bluetooth. The firmware will be hosted on GitHub and will be available for anyone to use and modify.
 
 Thermometer is based on TI's demo "Thermometer" code, which is using sensorTag like hardware produced by TI.
 
